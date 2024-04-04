@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 
 
 
-
+//test R
 @CucumberOptions (
 					features = "src/test/resources/smoke/SmokeTest.feature",
 					glue = "com.steps",
